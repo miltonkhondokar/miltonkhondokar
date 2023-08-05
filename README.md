@@ -1,6 +1,6 @@
 ### Assalamu'alaikum warahmatullahi wabarakatuh
 
-- 🔭 I’m currently working on SOFTANIS as a Software Engineer.
-- 🌱 I’m currently learning Flutter.
-- 👯 I’m looking to collaborate on Web and mobile apps devs
+- 🔭 At SOFTANIS, I am working as a Software Engineer who is proactive and dedicated to the team.
+- 🌱 My current endeavor is to learn flutter.
+- 👯 I am interested in working with Web and Mobile app developers.
 - 📫 How to reach me: km.sazzad.hossain.cse.bu@gmail.com
