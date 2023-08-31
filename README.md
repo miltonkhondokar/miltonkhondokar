@@ -2,7 +2,9 @@
 
 #### Assalamu'alaikum warahmatullahi wabarakatuh
 ###### I am a K M Sazzad Hossain
-
+<br/>
+<img src="https://komarev.com/ghpvc/?username=miltonkhondokar&label=Profile%20views&color=4CC61E&style=flat" alt="miltonkhondokar" />
+<br/>
 I am a passionate and professional Backend Software Developer, working in a wide range of software engineering stacks that include web Frontend and Backend. Writing readable, reusable and efficient code is my key focus while I develop software. I have the ability to accomplish my tasks independently as well as under someone’s supervision. As a software engineer, I am not only committed to creating innovative and efficient solutions but also thrive in collaborative environments. Being a dedicated and proactive team player is an integral part of my professional ethos. my dedication to being a team player defines my commitment to achieving shared objectives, and I am eager to contribute my skills to an organization that values collaboration and innovation as much as I do.
 
 <br/>
@@ -23,16 +25,12 @@ Skills: HTML / CSS / JavaScript / Jquery / Bootstrap / PHP / Python / MySQL/ Lar
 
 
 <br/>
-
-<img src="https://komarev.com/ghpvc/?username=miltonkhondokar&label=Profile%20views&color=4CC61E&style=flat" alt="miltonkhondokar" />
-<br/>
-
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=miltonkhondokar" alt="miltonkhondokar" /></a>
 <br/>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=miltonkhondokar&show_icons=true&locale=en&layout=compact" alt="miltonkhondokar" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=miltonkhondokar&show_icons=true&locale=en" alt="miltonkhondokar" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=miltonkhondokar&" alt="miltonkhondokar" /></p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=miltonkhondokar&show_icons=true&locale=en&layout=compact" alt="miltonkhondokar" />
+<br/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=miltonkhondokar&show_icons=true&locale=en" alt="miltonkhondokar" />
+<br/>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=miltonkhondokar&" alt="miltonkhondokar" />
