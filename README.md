@@ -30,6 +30,6 @@ Skills: HTML / CSS / JavaScript / Jquery / Bootstrap / PHP / Python / MySQL/ Lar
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=miltonkhondokar&show_icons=true&locale=en&layout=compact" alt="miltonkhondokar" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=miltonkhondokar&show_icons=true&locale=en" alt="miltonkhondokar" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=miltonkhondokar&show_icons=true&locale=en" alt="miltonkhondokar" /> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=miltonkhondokar&" alt="miltonkhondokar" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=miltonkhondokar&" alt="miltonkhondokar" /></p>
+<p></p>
