@@ -22,13 +22,14 @@ Skills: HTML / CSS / JavaScript / Jquery / Bootstrap / PHP / Python / MySQL/ Lar
 
 
 
-<br/>
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=miltonkhondokar" alt="miltonkhondokar" /></a>
-<br/>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=miltonkhondokar" alt="miltonkhondokar" /></a> </p>
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=miltonkhondokar&show_icons=true&locale=en&layout=compact" alt="miltonkhondokar" /><p/>
-<br/>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=miltonkhondokar&show_icons=true&locale=en" alt="miltonkhondokar" /><p/>
-<br/>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=miltonkhondokar&" alt="miltonkhondokar" /><p/>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=miltonkhondokar&show_icons=true&locale=en&layout=compact" alt="miltonkhondokar" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=miltonkhondokar&show_icons=true&locale=en" alt="miltonkhondokar" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=miltonkhondokar&" alt="miltonkhondokar" /></p>
