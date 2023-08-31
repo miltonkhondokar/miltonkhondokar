@@ -5,7 +5,7 @@
 
 I am a passionate and professional Backend Software Developer, working in a wide range of software engineering stacks that include web Frontend and Backend. Writing readable, reusable and efficient code is my key focus while I develop software. I have the ability to accomplish my tasks independently as well as under someone’s supervision. As a software engineer, I am not only committed to creating innovative and efficient solutions but also thrive in collaborative environments. Being a dedicated and proactive team player is an integral part of my professional ethos. my dedication to being a team player defines my commitment to achieving shared objectives, and I am eager to contribute my skills to an organization that values collaboration and innovation as much as I do.
 
-<br/><br/>
+<br/>
 
 - 🔭 At SOFTANIS, I am working as a Software Engineer who is proactive and dedicated to the team. 
 - 🌱 My current endeavor is to learn flutter. 
@@ -13,7 +13,7 @@ I am a passionate and professional Backend Software Developer, working in a wide
 - 📫 How to reach me: km.sazzad.hossain.cse.bu@gmail.com 
 
 
-<br/><br/>
+<br/>
 
 
 Skills: HTML / CSS / JavaScript / Jquery / Bootstrap / PHP / Python / MySQL/ Laravel / Django / Flutter
@@ -22,15 +22,14 @@ Skills: HTML / CSS / JavaScript / Jquery / Bootstrap / PHP / Python / MySQL/ Lar
 
 
 
-<br/><br/>
+<br/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=miltonkhondokar&label=Profile%20views&color=0e75b6&style=flat" alt="miltonkhondokar" /> </p>
+<img src="https://komarev.com/ghpvc/?username=miltonkhondokar&label=Profile%20views&color=4CC61E&style=flat" alt="miltonkhondokar" />
+<br/>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=miltonkhondokar" alt="miltonkhondokar" /></a> </p>
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=miltonkhondokar" alt="miltonkhondokar" /></a>
+<br/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=miltonkhondokar&show_icons=true&locale=en&layout=compact" alt="miltonkhondokar" /></p>
 
