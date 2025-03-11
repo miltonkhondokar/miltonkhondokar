@@ -7,9 +7,9 @@ I am a passionate and professional Backend Software Developer, working in a wide
 
 <br/>
 
-- 🔭 At SSL WIRELESS, I am working as a Software Specialist who is proactive and dedicated to the team. 
-- 🌱 My current endeavor is to learn flutter. 
-- 👯 I am interested in working with Web and Mobile app developers. 
+- 🔭 At Fiber@Home Limited, I am working as a Senior Programmer who is proactive and dedicated to the team. 
+- 🌱 My current endeavor is to learn Machine Learning. 
+- 👯 I am interested in working with Web application. 
 - 📫 How to reach me: km.sazzad.hossain.cse.bu@gmail.com 
 
 
