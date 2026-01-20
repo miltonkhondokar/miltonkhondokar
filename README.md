@@ -9,14 +9,14 @@ I thrive both as an independent contributor and as a collaborative team member. 
 
 ### 💼 Professional Experience
 
--   🔭 **Senior Programmer at Fiber@Home Limited**  
-    Proactively contributing to backend systems, infrastructure, and enterprise applications with a strong commitment to quality and reliability.
+-   🔭 **Senior Programmer at Fiber@Home Limited** Proactively contributing to backend systems, infrastructure, and enterprise applications with a strong commitment to quality and reliability.
 -   🌱 Currently working as a **System Administrator** and **Mobile Application Developer (Kotlin)**, strengthening DevOps, infrastructure automation, and Android development expertise.
- -   👯 Interested in opportunities involving **Web Applications, Mobile App Development, and System Administration**.
-  -   📫 **Contact:** km.sazzad.hossain.cse.bu@gmail.com
+-   👯 Interested in opportunities involving **Web Applications, Mobile App Development, and System Administration**.
+-   📫 **Contact:** km.sazzad.hossain.cse.bu@gmail.com
 
 
 ### 🛠 Technical Skills
+
 **Frontend:** HTML, CSS, JavaScript, jQuery, Bootstrap  
 **Backend:** PHP, Python, Laravel, Django  
 **Mobile:** Kotlin  
