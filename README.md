@@ -22,5 +22,4 @@ I thrive both as an independent contributor and as a collaborative team member. 
 **Mobile:** Kotlin  
 **Database:** MySQL,PostgreSQL
 
-
 **Other:** REST APIs, System Administration, DevOps fundamentals
