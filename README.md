@@ -21,5 +21,4 @@ I thrive both as an independent contributor and as a collaborative team member. 
 **Backend:** PHP, Python, Laravel, Django  
 **Mobile:** Kotlin  
 **Database:** MySQL,PostgreSQL
-
 **Other:** REST APIs, System Administration, DevOps fundamentals
