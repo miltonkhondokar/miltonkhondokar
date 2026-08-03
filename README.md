@@ -126,8 +126,6 @@ I am working toward a full-time role in:
 
 I am particularly interested in opportunities where I can combine my **software-development background** with **cloud infrastructure, automation, deployment engineering, and production reliability**.
 
-I am also open to international opportunities and relocation, particularly to **Saudi Arabia**.
-
 ---
 
 ## 🤝 Let's Connect
