@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="./18325182.jpeg" alt="K. M. Sazzad Hossain" width="170" />
+<img src="https://github.com/miltonkhondokar.png" alt="K. M. Sazzad Hossain" width="170" style="border-radius:50%;" />
 
 # K. M. Sazzad Hossain
 
-### Assistant Manager | Backend Engineering | AWS & Azure Certified | DevOps, Cloud & Platform Engineering
+### Assistant Manager | Backend & Platform Engineering | AWS & Azure Certified | DevOps, Cloud & Infrastructure
 
 <img src="https://komarev.com/ghpvc/?username=miltonkhondokar&label=Profile%20Views&color=4CC61E&style=flat" alt="Profile views" />
 
